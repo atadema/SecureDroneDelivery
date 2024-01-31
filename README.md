@@ -5,4 +5,4 @@ This repository contains the following three independently operating codebases. 
 
 1. Chirpstack LoRa Application Server (dockerfile)
 2. Node-RED authentication flow for the secure authentication of the recipient of the payload container (dockerfile)
-3. Arduino microcontroller with RN2483 LoRaWAN module (Arduino IDE C++ file + dependencies)  
+3. Arduino C++ file + dependencies for Arduino M0 microcontroller with RN2483 LoRaWAN module (Arduino IDE .ino C++ files + dependencies)  
